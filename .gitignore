@@ -1,0 +1,6 @@
+.env
+temp_auto_push.bat
+node_modules/
+@types/
+temp_interactive_push.bat
+.gitignore
